@@ -15,4 +15,4 @@ const RepositoryList = () => {
     );
   };
   
-  
+  export default RepositoryList;
